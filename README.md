@@ -1,3 +1,6 @@
+
+Le texte suivant concerne le vieux README fait par Jean-Sebastien :
+
 # Technoshield User Interface - SW Library
 
 This library drives the Technoshield User Interface board (https://github.com/jscastonguay/technoshield-ui-hw).
